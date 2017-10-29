@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mine\.android\build-cache\0069965ef048f311cf4d0c2dfb6d8241afe991e5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Mine\AndroidStudioProjects\MaterialMe-Starter\app\build\intermediates\pre-dexed\debug\classes_c1541c6c4d2fa609b369e558fa056bf02a54b5b1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mine\.android\build-cache\087105a189600cc5470311d9cbb6323f9d29fe94\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\Mine\AndroidStudioProjects\MaterialMe-Starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dcfe94957a4cf83d3ae266239256afbcbf2c07c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mine\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Mine\AndroidStudioProjects\MaterialMe-Starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_98a420d30748cef21393c67cda73798879488bb2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mine\.android\build-cache\0069965ef048f311cf4d0c2dfb6d8241afe991e5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Mine\AndroidStudioProjects\MaterialMe-Starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c1541c6c4d2fa609b369e558fa056bf02a54b5b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mine\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Mine\AndroidStudioProjects\MaterialMe-Starter\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_98a420d30748cef21393c67cda73798879488bb2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mine\AndroidStudioProjects\MaterialMe-Starter\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="14176203a479eb3cdb19835d5faeca330d5939eb">
+        <dex dex="C:\Users\Mine\AndroidStudioProjects\MaterialMe-Starter\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_cf6dac71278e59ac31e8d4d08591865e95e61f52\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mine\.android\build-cache\e8c690c6cbd7f90585ecf83484ad8ae1ace8918c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Mine\AndroidStudioProjects\MaterialMe-Starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4c91db8da34990b06bfd80e2b841a80f23349b80\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mine\.android\build-cache\c37d14fde25cc06c1b75bc392a7d823a93233bc2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\Mine\AndroidStudioProjects\MaterialMe-Starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c3f908eafc4605caf5c01c3498e99f1a97129ae4\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mine\.android\build-cache\919914c66172cee6eb57dbf3c2d84088f8a581b0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\Mine\AndroidStudioProjects\MaterialMe-Starter\app\build\intermediates\pre-dexed\debug\classes_fa842c655d0bfecf24b35933851683c7a78584b5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mine\AndroidStudioProjects\MaterialMe-Starter\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Mine\AndroidStudioProjects\MaterialMe-Starter\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_9fdfd7971d46d77fe823a7940c3f4c2c81721175\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mine\.android\build-cache\919914c66172cee6eb57dbf3c2d84088f8a581b0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\Mine\AndroidStudioProjects\MaterialMe-Starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fa842c655d0bfecf24b35933851683c7a78584b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Mine\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.5.2\ecf534dba3a8446ce84cbb797d314763be212a68\glide-3.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ecf534dba3a8446ce84cbb797d314763be212a68">
+        <dex dex="C:\Users\Mine\AndroidStudioProjects\MaterialMe-Starter\app\build\intermediates\pre-dexed\debug\glide-3.5.2_d756d3f49cc34852b404305abc2402e6e0849ec9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mine\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.5.2\ecf534dba3a8446ce84cbb797d314763be212a68\glide-3.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ecf534dba3a8446ce84cbb797d314763be212a68">
+        <dex dex="C:\Users\Mine\AndroidStudioProjects\MaterialMe-Starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.5.2_d756d3f49cc34852b404305abc2402e6e0849ec9\classes.dex" />
+    </item>
+
+</items>
